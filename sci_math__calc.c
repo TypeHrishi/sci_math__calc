@@ -11,7 +11,7 @@
 
             while (st != 0){
                 printf("\nSCIENTIFIC AND MATHEMATICAL CACLULATOR\nCoder:- Hrishikesh Kelkar, typehrishi@gmail.com\n");
-                printf("Please support by subcribing to my channel! \nhttps://youtube.com/@decoders13\n");
+                printf("Please support by subcribing to my channel! \nhttps://youtube.com/@decoders13\nFollow me on GitHib!\nhttps://github.com/TypeHrishi/ \nYou can get the code here: https://github.com/TypeHrishi/sci_math__calc\n");
                 printf("Please choose an option to continue: (Type the num mentioned for the option)\n");
                 printf("0: EXIT\n1: Basic Calculator\n2: Table Generator\n3: Area, Perimeter, Surface Area & Volume Calculator\n4: Trigonometric Ratios\n5: Current And Electricity\n6: Speed/Velocity And Acceleration\n-> ");
                 scanf("%d", &op1);
