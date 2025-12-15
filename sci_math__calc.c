@@ -793,7 +793,7 @@
                                                     printf("Enter radius: ");
                                                     scanf("%lf", &n1);
                                                                                                                                                         
-                                                    printf("\nVolume: %.2lf\n\n", fourby3 * M_PI * (n1, 3));
+                                                    printf("\nVolume: %.2lf\n\n", fourby3 * M_PI * pow(n1, 3));
 
                                                     printf("Continue?\n0: EXIT\n1: Yes\n-> ");
                                                     scanf("%d", &op5);
